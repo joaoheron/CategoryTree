@@ -1,0 +1,3 @@
+{"productName":"Brinquedo Jambo Mordedor Monstrinho Látex","productCategories":[{"id":"Brinquedos","parents":["Cachorro"]},{"id":"Brinquedos Látex","parents":["Brinquedos"]},{"id":"Cachorro","parents":[]}]}
+{"productName":"Brinquedo Vara com Bolinha e Pluma Carnival para Gatos","productCategories":[{"id":"Brinquedos","parents":["Gatos"]},{"id":"Diversos","parents":["Brinquedos"]},{"id":"Gatos","parents":[]}]}
+{"productName": "Casinha de cachorro Pet Injet Plástica - Lilás","productCategories": [{"id": "cachorro","parents": []},{"id": "casinhas","parents": ["cachorro"]},{"id": "plastico","parents": ["casinhas"]},{"id": "lilas","parents": ["casinhas"]},{"id": "pet_injet","parents": ["marcas", "casinhas"]},{"id": "marcas","parents": []}]}
